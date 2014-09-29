@@ -19,5 +19,3 @@
 
 * 既存のSNSタイムライン
 
-
-<tt>rake doc:app</tt>.
